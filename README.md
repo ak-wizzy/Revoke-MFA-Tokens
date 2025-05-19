@@ -1,5 +1,5 @@
 # Revoke-MFA-Tokens
-The powershell script automates revoking multiple users' MFA tokens using a csv file
+The powershell script automates revoking multiple users' Entra ID MFA tokens using a csv file
 
 Prerequisites
 1.  Install Microsoft Graph PowerShell SDK (if you haven’t already):
